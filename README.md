@@ -1,4 +1,4 @@
- 👋 Hi, I’m @femiayeyemi \n
+ 👋 Hi, I’m @femiayeyemi
  👀 I’m interested in Python web development using Django and Data Science
  🌱 I’m currently learning Django
  💞️ I’m looking to collaborate on ...
